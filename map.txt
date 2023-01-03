@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 cafe the oasis
-=======
-cafe the
->>>>>>> main
+
